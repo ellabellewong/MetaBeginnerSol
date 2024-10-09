@@ -43,7 +43,6 @@ contract MyToken {
 
 }
 ```
-* Step-by-step bullets
 Deploy the contract:
 - Go to Remix IDE (https://remix.ethereum.org).
 - Paste the Solidity code into a new file.
