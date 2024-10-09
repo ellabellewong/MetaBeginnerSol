@@ -1,4 +1,4 @@
-# Project Title
+# Beginner Solidity
 
 This simple smart contract is written in Solidity. The contract manages a token system with the ability to mint and burn tokens.
 
